@@ -8,6 +8,7 @@ module.exports = {
     'postMeta',
     'postBodyEnd',
     'footer',
+    'bodyFront',
     'bodyEnd',
     'comment'
   ],
