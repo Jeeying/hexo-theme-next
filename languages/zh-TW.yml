@@ -77,6 +77,7 @@ reward:
   paypal: PayPal
   bitcoin: 比特幣
   linepay: Line Pay
+  jkos: 街口支付
 follow_me:
   welcome: 歡迎關注我的其它發布渠道
 accessibility:
